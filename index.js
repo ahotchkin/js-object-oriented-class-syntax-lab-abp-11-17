@@ -1,4 +1,4 @@
-class boardMember {
+class BoardMember {
   constructor(name, homestate, training) {
     this.name = name
     this.homestate = homestate
@@ -6,4 +6,4 @@ class boardMember {
   }
 
   
-} 
+}
