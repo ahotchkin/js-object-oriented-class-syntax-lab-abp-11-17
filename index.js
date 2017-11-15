@@ -9,4 +9,7 @@ class BoardMember {
     return "No, I must disagree"
   }
 
+  approve(){
+    return "You can do that!"
+  }
 }
